@@ -13,4 +13,6 @@ node_modules
 *.log
 
 # Local IDE config
+# ignore idea folder and everything in it
 .idea
+.idea/*
