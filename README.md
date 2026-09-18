@@ -120,4 +120,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/lafllamme">lafllamme</a></p>
+Made with love by [Laflamme](https://github.com/lafllamme).
